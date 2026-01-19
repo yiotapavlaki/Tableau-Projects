@@ -25,6 +25,13 @@ Explored Spotify track features to identify:
 
 [Link to my Dashboard](https://public.tableau.com/views/SpotifyInsightsDashboard_17652922420760/SpotifyInsightsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+🏢 Project 3: Employment Change in the UK
+Analysed UK employment data (2011–2014) across cities and industries:
+- Job growth and decline by region
+- Industry‑level changes
+- Percentage change in employment across sectors
+  
+[Link to my Dashboard](https://public.tableau.com/views/Employment_UK_17688386368830/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🎯 Summary
 This project demonstrates strong Tableau proficiency, clear analytical thinking, and the ability to communicate insights through well‑designed visual dashboards.

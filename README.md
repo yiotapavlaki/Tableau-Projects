@@ -34,6 +34,16 @@ Analysed UK employment data (2011–2014) across cities and industries:
   
 [Link to my Dashboard](https://public.tableau.com/views/Employment_UK_17688386368830/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+🥗 *Healthy Diet Insights Dashboard*
+
+Analysed global nutrition and lifestyle data to explore:
+- The healthiest diet types
+- The healthiest cuisines around the world
+- Calorie profiles of different diet types
+- Calorie profiles of global cuisines
+
+[Link to my Dashboard](https://public.tableau.com/app/profile/yiota.pavlaki/viz/HealthyDietInsights/Dashboard2)
+
 🎯 **Summary**
 
 This project demonstrates strong Tableau proficiency, clear analytical thinking, and the ability to communicate insights through well‑designed visual dashboards.
